@@ -1,0 +1,20 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Ignore build results
+[Bb]in/
+[Oo]bj/
+
+# Ignore CMake output
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.ninja
+build/
+
+# Ignore logs
+*.log
