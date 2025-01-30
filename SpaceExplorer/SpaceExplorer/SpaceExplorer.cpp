@@ -201,7 +201,7 @@ int main() { // Main function
         return -1; 
     }
 
-    glfwMakeContextCurrent(window); 
+    glfwMakeContextCurrent(window); // Create and manage OpenGL contexts and windows.
 
     // Initialize ImGui context
     IMGUI_CHECKVERSION(); // Check ImGui version
