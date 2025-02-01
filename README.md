@@ -109,7 +109,6 @@ SpaceExplorer/
 │   ├── httplib.h                 # HTTP requests library
 
 │   ├── json.hpp                   # JSON parsing library
-
 └── README.md                     # Project documentation
 
 
