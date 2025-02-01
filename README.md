@@ -93,8 +93,10 @@ SpaceExplorer/
 │   ├── imgui/                    # ImGui library for GUI
 │   ├── httplib.h                 # HTTP requests library
 │   ├── json.hpp                   # JSON parsing library
-└── README.md
-
+├── build/                        # Compiled binaries
+├── assets/                       # Icons, images
+├── CMakeLists.txt                # CMake configuration
+└── README.md                     # Project documentation
 
 
 ## Multi-threading Architecture
