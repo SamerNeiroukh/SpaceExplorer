@@ -47,10 +47,11 @@ SpaceExplorer is an advanced C++ project that integrates multi-threading, HTTP A
 
    bash
    git clone https://github.com/SamerNeiroukh/SpaceExplorer.git
+   
    cd SpaceExplorer
    
 
-2. Install dependencies (Ensure you have necessary libraries):
+3. Install dependencies (Ensure you have necessary libraries):
 
     * On Ubuntu:
       bash
@@ -61,20 +62,20 @@ SpaceExplorer is an advanced C++ project that integrates multi-threading, HTTP A
       bash
       vcpkg install glfw3 glm glew
       
-3. Build the project:
+4. Build the project:
     bash
     mkdir build && cd build
     cmake ..
     make 
     
 
-4. Run the application: ./SpaceExplorer
+5. Run the application: ./SpaceExplorer
 
 ## Project Structure
 
 
 SpaceExplorer/
-SpaceExplorer/
+
 ├── SpaceExplorer/               # Core application code
 │   ├── main.cpp                 # Entry point
 │   ├── file_writer.h            # Handles file writing
