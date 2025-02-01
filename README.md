@@ -98,6 +98,20 @@ SpaceExplorer/
 ├── CMakeLists.txt                # CMake configuration
 └── README.md                     # Project documentation
 
+MovieDataFetcher/
+├── winapp/            # Windows-specific application code
+│   └── ConnectedApp/    # Main application code (Windows)
+├── shared/           # Shared code between different parts
+├── ImGuiSrc/         # Dear ImGui source code
+├── stb_image.h       # Image loading library
+├── CommonObjects.h    # Shared data structure between threads
+├── DownloadThread.h   # Movie data download thread
+├── DrawThread.h      # GUI rendering thread
+├── GuiMain.h        # GUI initialization and main loop
+├── MovieService.h     # Movie-related operations
+├── CMakeLists.txt    # CMake build configuration
+└── LICENSE           # Project license (MIT)
+
 
 ## Multi-threading Architecture
 
