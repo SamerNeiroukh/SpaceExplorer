@@ -77,40 +77,40 @@ SpaceExplorer is an advanced C++ project that integrates multi-threading, HTTP A
 SpaceExplorer/
 
 ├── SpaceExplorer/               # Core application code
-│   ├── main.cpp                 # Entry point
-│   ├── file_writer.h            # Handles file writing
-│   ├── planet.h                 # Planet class
-│   ├── mission.h                # Space mission class
-│   ├── astronaut.h              # Astronaut class
-│   ├── astronomy_picture.h       # NASA APOD class
-│   ├── fetch_data.h              # API data fetch logic
-│   ├── gui.h                     # GUI rendering logic
-│   ├── utils.h                   # Utility functions
-│   ├── SpaceExplorer.sln         # Visual Studio Solution
-│   ├── x64/Debug/                # Compiled binary directory
-├── external/                     # Third-party libraries
-│   ├── glfw/                     # OpenGL GLFW library
-│   ├── imgui/                    # ImGui library for GUI
-│   ├── httplib.h                 # HTTP requests library
-│   ├── json.hpp                   # JSON parsing library
-├── build/                        # Compiled binaries
-├── assets/                       # Icons, images
-├── CMakeLists.txt                # CMake configuration
-└── README.md                     # Project documentation
 
-MovieDataFetcher/
-├── winapp/            # Windows-specific application code
-│   └── ConnectedApp/    # Main application code (Windows)
-├── shared/           # Shared code between different parts
-├── ImGuiSrc/         # Dear ImGui source code
-├── stb_image.h       # Image loading library
-├── CommonObjects.h    # Shared data structure between threads
-├── DownloadThread.h   # Movie data download thread
-├── DrawThread.h      # GUI rendering thread
-├── GuiMain.h        # GUI initialization and main loop
-├── MovieService.h     # Movie-related operations
-├── CMakeLists.txt    # CMake build configuration
-└── LICENSE           # Project license (MIT)
+│   ├── main.cpp                 # Entry point
+
+│   ├── file_writer.h            # Handles file writing
+
+│   ├── planet.h                 # Planet class
+
+│   ├── mission.h                # Space mission class
+
+│   ├── astronaut.h              # Astronaut class
+
+│   ├── astronomy_picture.h       # NASA APOD class
+
+│   ├── fetch_data.h              # API data fetch logic
+
+│   ├── gui.h                     # GUI rendering logic
+
+│   ├── utils.h                   # Utility functions
+
+│   ├── SpaceExplorer.sln         # Visual Studio Solution
+
+│   ├── x64/Debug/                # Compiled binary directory
+
+├── external/                     # Third-party libraries
+
+│   ├── glfw/                     # OpenGL GLFW library
+
+│   ├── imgui/                    # ImGui library for GUI
+
+│   ├── httplib.h                 # HTTP requests library
+
+│   ├── json.hpp                   # JSON parsing library
+
+└── README.md                     # Project documentation
 
 
 ## Multi-threading Architecture
