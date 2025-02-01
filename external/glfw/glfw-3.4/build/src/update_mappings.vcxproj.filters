@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Samer Neiroukh\Desktop\SpaceExplorer\external\glfw\glfw-3.4\build\CMakeFiles\742d548f200884b461e228ad96d0255e\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Samer Neiroukh\Desktop\SpaceExplorer\external\glfw\glfw-3.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Samer Neiroukh\Desktop\SpaceExplorer\external\glfw\glfw-3.4\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\Samer Neiroukh\Desktop\SpaceExplorer\external\glfw\glfw-3.4\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\Samer Neiroukh\Desktop\SpaceExplorer\external\glfw\glfw-3.4\build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{23CFAB28-5818-3221-B498-51B3C2EA0065}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E69AF13C-894C-36DF-B459-ECB4D41F2EBA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

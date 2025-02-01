@@ -4,6 +4,7 @@
 *.suo
 *.VC.db
 *.VC.opendb
+*.ipch
 
 # Ignore build results
 [Bb]in/

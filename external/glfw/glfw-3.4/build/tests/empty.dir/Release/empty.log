@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/Samer Neiroukh/Desktop/SpaceExplorer/external/glfw/glfw-3.4/tests/CMakeLists.txt
+  empty.c
+  tinycthread.c
+  Generating Code...
+  empty.vcxproj -> C:\Users\Samer Neiroukh\Desktop\SpaceExplorer\external\glfw\glfw-3.4\build\tests\Release\empty.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
