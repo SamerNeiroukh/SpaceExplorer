@@ -77,37 +77,21 @@ SpaceExplorer is an advanced C++ project that integrates multi-threading, HTTP A
 SpaceExplorer/
 
 ├── SpaceExplorer/               # Core application code
-
 │   ├── main.cpp                 # Entry point
-
 │   ├── file_writer.h            # Handles file writing
-
 │   ├── planet.h                 # Planet class
-
 │   ├── mission.h                # Space mission class
-
 │   ├── astronaut.h              # Astronaut class
-
 │   ├── astronomy_picture.h       # NASA APOD class
-
 │   ├── fetch_data.h              # API data fetch logic
-
 │   ├── gui.h                     # GUI rendering logic
-
 │   ├── utils.h                   # Utility functions
-
 │   ├── SpaceExplorer.sln         # Visual Studio Solution
-
 │   ├── x64/Debug/                # Compiled binary directory
-
 ├── external/                     # Third-party libraries
-
 │   ├── glfw/                     # OpenGL GLFW library
-
 │   ├── imgui/                    # ImGui library for GUI
-
 │   ├── httplib.h                 # HTTP requests library
-
 │   ├── json.hpp                   # JSON parsing library
 └── README.md                     # Project documentation
 
@@ -137,5 +121,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For any inquiries or feedback, please reach out to:
 
 **Authors**: Samer Neiroukh, Mahmoud faroun
+
 **GitHub**: [@SamerNeiroukh](https://github.com/SamerNeiroukh), [@mahmoudfiron](https://github.com/mahmoudfiron)
+
 **Email`s**:  samer.neiroukh@gmail.com , ‫mahmoudfiron13@gmail.com
